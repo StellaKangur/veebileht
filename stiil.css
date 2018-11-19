@@ -1,0 +1,9 @@
+body{
+	background-color:#e6f2ff; /*muudab terve lehekülje tausta helesiniseks*/
+}
+
+.TestClass {
+	color: Black;
+	background-color: White;
+	text-align: left;
+}
