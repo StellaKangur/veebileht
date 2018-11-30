@@ -1,6 +1,3 @@
-//dünaamilisuse loomiseks teeks lahtri "kirjuta meile"
-
-
 	function trigger()
 	{
 	document.getElementById("hover").addEventListener("mouseover", popup);
