@@ -74,3 +74,13 @@ body:after {
 	  font-weight: 400; 
 	  line-height: 20px;
     }
+	p1  {
+      color: black;
+	  text-align: left;
+	  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	  font-size: 14px; 
+	  font-style: normal; 
+	  font-variant: normal; 
+	  font-weight: 400; 
+	  line-height: 20px;
+    }
